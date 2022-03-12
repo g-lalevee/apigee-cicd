@@ -1,4 +1,4 @@
 # apigee-cicd
 Apigee CICD assets
 
-See [Wiki](https://github.com/g-lalevee/apigee-cicd/wiki)
+See [Wiki](https://github.com/g-lalevee/apigee-cicd/wiki/Apigee-CI-CD)
