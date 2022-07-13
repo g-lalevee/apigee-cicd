@@ -8,7 +8,7 @@
 
 <BR>
 
-## <img src="[https://solutions.appsheet.com/hubfs/ApigeeAPIPlatform-512-color.svg](https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="40"/> Welcome to the apigee-cicd wiki! 
+## <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="40"/> Welcome to the apigee-cicd wiki! 
 
 This wiki contains links to sample Apigee CI/CD implementations and tools, for [Apigee Edge/OPDK](https://docs.apigee.com/), [Apigee X/hybrid](https://cloud.google.com/apigee/docs/) + Apigee [Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) & [Connectors](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors).
 
@@ -26,8 +26,8 @@ Simple Apigee proxy deployment using main pipeline solutions:
 |<img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" width="30"> |  CircleCI |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-CircleCI-Pipeline) | 
 |<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Configurable-Simple-GitHub-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Integration-Simple-GitHub-Pipeline) |
 |<img src="https://about.gitlab.com/images/logo.png" width="30"> |  GitLab | [My GitLab](https://gitlab.com/clalevee/apigee-simple-gitlab_ci-pipeline-v2)  | 
-|<img src="https://avatars.githubusercontent.com/u/38220399?s=200&v=4" width="30"> |  Google Cloud Build | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)  <img src="[https://solutions.appsheet.com/hubfs/ApigeeAPIPlatform-512-color.svg](https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/> | 
-|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30"> |  Jenkins | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)  <img src="[https://solutions.appsheet.com/hubfs/ApigeeAPIPlatform-512-color.svg](https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>   |
+|<img src="https://avatars.githubusercontent.com/u/38220399?s=200&v=4" width="30"> |  Google Cloud Build | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)   <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  | 
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30"> |  Jenkins | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)   <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>    |
 
 
 (1) Configurable API proxies feature is currently in Preview.<BR>
@@ -43,7 +43,7 @@ See [Apigee Documentation](https://cloud.google.com/apigee/docs/api-platform/dev
 
 |  Tool |  Link | Description | 
 |---|---|---|
-|  CICD Pipeline for SharedFlows | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-sharedflow-pipeline)  <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  |  CI/CD pipeline for Apigee sharedflow using the Apigee Deploy Maven Plugin |
+|  CICD Pipeline for SharedFlows | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-sharedflow-pipeline) <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  |  CI/CD pipeline for Apigee sharedflow using the Apigee Deploy Maven Plugin |
 |  Apigee X Environment Selector | [My GitHub](https://github.com/g-lalevee/apigee-envselector) | Select CI/CD pipeline target environment from an Environment Group |
 
 <BR>
