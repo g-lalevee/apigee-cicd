@@ -43,7 +43,7 @@ See [Apigee Documentation](https://cloud.google.com/apigee/docs/api-platform/dev
 
 |  Tool |  Link | Description | 
 |---|---|---|
-|  CICD Pipeline for SharedFlows | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-sharedflow-pipeline)  <img src="https://solutions.appsheet.com/hubfs/ApigeeAPIPlatform-512-color.svg" alt="logo" width="20"/>  |  CI/CD pipeline for Apigee sharedflow using the Apigee Deploy Maven Plugin |
+|  CICD Pipeline for SharedFlows | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-sharedflow-pipeline)  <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  |  CI/CD pipeline for Apigee sharedflow using the Apigee Deploy Maven Plugin |
 |  Apigee X Environment Selector | [My GitHub](https://github.com/g-lalevee/apigee-envselector) | Select CI/CD pipeline target environment from an Environment Group |
 
 <BR>
