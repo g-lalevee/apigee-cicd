@@ -22,7 +22,7 @@ Simple Apigee proxy deployment using main pipeline solutions:
 
 ||  Pipeline |  Programmable Proxy |  Configurable Proxy (1) |  Integration (2)| 
 |---|---|---|---|---|
-|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) | 
+|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) | [My GitHub](https://github.com/g-lalevee/Apigee-Configurable-Simple-Azure-Pipeline)
 |<img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" width="30"> |  CircleCI |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-CircleCI-Pipeline) | 
 |<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Configurable-Simple-GitHub-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Integration-Simple-GitHub-Pipeline) |
 |<img src="https://about.gitlab.com/images/logo.png" width="30"> |  GitLab | [My GitLab](https://gitlab.com/clalevee/apigee-simple-gitlab_ci-pipeline-v2)  | [My GitLab](https://gitlab.com/clalevee/apigee-configurable-simple-gitlab-pipeline) |
