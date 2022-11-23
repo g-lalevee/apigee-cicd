@@ -20,21 +20,17 @@ This wiki contains links to sample Apigee CI/CD implementations and tools, for [
 
 Simple Apigee proxy deployment using main pipeline solutions:
 
-||  Pipeline |  Programmable Proxy |  Configurable Proxy (1) |  Integration (2)| 
-|---|---|---|---|---|
-|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) | [My GitHub](https://github.com/g-lalevee/Apigee-Configurable-Simple-Azure-Pipeline)
+||  Pipeline |  Programmable Proxy |  Integration (1)| 
+|---|---|---|---|
+|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) | 
 |<img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" width="30"> |  CircleCI |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-CircleCI-Pipeline) | 
-|<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Configurable-Simple-GitHub-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Integration-Simple-GitHub-Pipeline) |
-|<img src="https://about.gitlab.com/images/logo.png" width="30"> |  GitLab | [My GitLab](https://gitlab.com/clalevee/apigee-simple-gitlab_ci-pipeline-v2)  | [My GitLab](https://gitlab.com/clalevee/apigee-configurable-simple-gitlab-pipeline) |
+|<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Integration-Simple-GitHub-Pipeline) |
+|<img src="https://about.gitlab.com/images/logo.png" width="30"> |  GitLab | [My GitLab](https://gitlab.com/clalevee/apigee-simple-gitlab_ci-pipeline-v2)  |
 |<img src="https://avatars.githubusercontent.com/u/38220399?s=200&v=4" width="30"> |  Google Cloud Build | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)   <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  | 
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30"> |  Jenkins | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)   <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>    |
 
 
-(1) Configurable API proxies feature is currently in Preview.<BR>
-With Configurable API proxies, API developers can quickly create and deploy a lightweight proxy using a declarative configuration model.<BR>
-See [Apigee Documentation](https://cloud.google.com/apigee/docs/api-platform/develop/configurable-api-proxies).
-
-(2) End to end deployment and testing of an [Apigee Connector](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors) (Google BigQuery), an [Apigee Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) workflow and an Apigee Proxy.
+(1) End to end deployment and testing of an [Apigee Connector](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors) (Google BigQuery), an [Apigee Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) workflow and an Apigee Proxy.
 
 <BR>
 
