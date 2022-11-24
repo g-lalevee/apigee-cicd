@@ -20,8 +20,8 @@ This wiki contains links to sample Apigee CI/CD implementations and tools, for [
 
 Simple Apigee proxy deployment using main pipeline solutions:
 
-||  Pipeline |  Programmable Proxy |  Integration (1)| 
-|---|---|---|---|
+||  Pipeline |  API Proxy & Config. |  Integration (1)|  API Hub| 
+|---|---|---|---|---|
 |<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) | 
 |<img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" width="30"> |  CircleCI |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-CircleCI-Pipeline) | 
 |<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline)  | [My GitHub](https://github.com/g-lalevee/Apigee-Integration-Simple-GitHub-Pipeline) |
