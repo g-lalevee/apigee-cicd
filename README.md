@@ -22,7 +22,7 @@ Simple Apigee proxy deployment using main pipeline solutions:
 
 ||  Pipeline |  API Proxy & Config. |  Integration (1)|  API Hub (2) | 
 |---|---|---|---|---|
-|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) | - | [My GitHub](https://github.com/g-lalevee/Apigee-ApiHub-Simple-Azure-Pipeline) |
+|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) <sup>\*</sup> | - | [My GitHub](https://github.com/g-lalevee/Apigee-ApiHub-Simple-Azure-Pipeline) |
 <img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" width="30"> | Bitbucket | [My Bitbucket](https://bitbucket.org/g-lalevee/apigee-simple-bitbucket-pipeline) <sup>\*</sup> | - | - |
 |<img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" width="30"> | CircleCI |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-CircleCI-Pipeline) | - | - |
 |<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline) <sup>\*</sup> | [My GitHub](https://github.com/g-lalevee/Apigee-Integration-Simple-GitHub-Pipeline) | [My GitHub](https://github.com/g-lalevee/Apigee-ApiHub-Simple-Github-Pipeline) |
