@@ -10,7 +10,7 @@
 
 ## <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="40"/> Welcome to the apigee-cicd wiki! 
 
-This wiki contains links to sample Apigee CI/CD implementations and tools, for [Apigee Edge/OPDK](https://docs.apigee.com/), [Apigee X/hybrid](https://cloud.google.com/apigee/docs/) + Apigee [Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) & [Connectors](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors).
+This wiki contains links to sample Apigee CI/CD implementations and tools, for [Apigee Edge/OPDK](https://docs.apigee.com/), [Apigee X/hybrid](https://cloud.google.com/apigee/docs/) + [Application Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) & [Connectors](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors).
 
 <BR>
 
