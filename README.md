@@ -20,7 +20,7 @@ This wiki contains links to sample Apigee CI/CD implementations and tools, for [
 
 Simple Apigee proxy deployment using main pipeline solutions:
 
-||  Pipeline |  API Proxy & Config. |  Integration (1)|  API Hub (2) | 
+||  Pipeline |  API Proxy & Config. |  App. Integration (1)|  API Hub (2) | 
 |---|---|---|---|---|
 |<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) <sup>\*</sup> | - | [My GitHub](https://github.com/g-lalevee/Apigee-ApiHub-Simple-Azure-Pipeline) |
 <img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" width="30"> | Bitbucket | [My Bitbucket](https://bitbucket.org/g-lalevee/apigee-simple-bitbucket-pipeline) <sup>\*</sup> | - | - |
@@ -32,7 +32,7 @@ Simple Apigee proxy deployment using main pipeline solutions:
 
 <sup>\*</sup> Updated with OAS file test using stoplight spectral
   
-(1) End to end deployment and testing of an [Apigee Connector](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors) (Google BigQuery), an [Apigee Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) workflow and an Apigee Proxy.
+(1) End to end deployment and testing of an [Apigee Connector](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors) (Google BigQuery), an [Application Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) workflow.
 
 (2) API SDLC ("design-first" approach) illustration relying on [Apigee API hub](https://cloud.google.com/apigee/docs/api-hub/what-is-api-hub) and Apigee X/hybrid 
 <BR>
