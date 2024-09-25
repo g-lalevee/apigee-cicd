@@ -22,12 +22,12 @@ Simple Apigee proxy deployment using main pipeline solutions:
 
 ||  Pipeline |  API Proxy & Config. |  App. Integration (1)|  API Hub (2) | 
 |---|---|---|---|---|
-|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) <sup>\*</sup> | [My GitHub](https://github.com/g-lalevee/AppInt-Simple-Azure-Pipeline) | [My GitHub](https://github.com/g-lalevee/Apigee-ApiHub-Simple-Azure-Pipeline) |
+|<img src="https://cdn.iconscout.com/icon/free/png-256/azure-devops-3628645-3029870.png" width="30"> |  Azure Pipeline | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Azure-Pipeline) <sup>\*</sup> | [My GitHub](https://github.com/g-lalevee/AppInt-Simple-Azure-Pipeline) | - |
 <img src="https://seeklogo.com/images/B/bitbucket-logo-D072214725-seeklogo.com.png" width="30"> | Bitbucket | [My Bitbucket](https://bitbucket.org/g-lalevee/apigee-simple-bitbucket-pipeline) <sup>\*</sup> | - | - |
 |<img src="https://avatars.githubusercontent.com/u/5055988" width="30"> | Buildkite |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-buildkite-Pipeline) | - | - |
 |<img src="https://a.slack-edge.com/80588/img/plugins/circleci/service_512.png" width="30"> | CircleCI |  [My GitHub](https://github.com/g-lalevee/Apigee-Simple-CircleCI-Pipeline) | - | - |
-|<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline) <sup>\*</sup> |  -  | [My GitHub](https://github.com/g-lalevee/Apigee-ApiHub-Simple-Github-Pipeline) |
-| <img src="https://about.gitlab.com/images/logo.png" width="30"> |  GitLab | [My GitLab](https://gitlab.com/clalevee/apigee-simple-gitlab_ci-pipeline-v2) <sup>\*</sup> | [My GitLab](https://gitlab.com/clalevee/appint-simple-gitlab_ci-pipeline) |  [My GitLab](https://gitlab.com/clalevee/apigee-apihub-simple-gitlab-pipeline)  |
+|<img src="https://raw.githubusercontent.com/phylus-alpha/phylus/master/images/github.png" width="30"> |  GitHub | [My GitHub](https://github.com/g-lalevee/Apigee-Simple-Github-Pipeline) <sup>\*</sup> |  -  | - |
+| <img src="https://about.gitlab.com/images/logo.png" width="30"> |  GitLab | [My GitLab](https://gitlab.com/clalevee/apigee-simple-gitlab_ci-pipeline-v2) <sup>\*</sup> | [My GitLab](https://gitlab.com/clalevee/appint-simple-gitlab_ci-pipeline) |  -  |
 |<img src="https://avatars.githubusercontent.com/u/38220399?s=200&v=4" width="30"> |  Google Cloud Build | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)   <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  |  - | - |
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="30"> |  Jenkins | [Apigee DevRel GitHub](https://github.com/apigee/devrel/tree/main/references/cicd-pipeline)   <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="20"/>  | - | - |
 
