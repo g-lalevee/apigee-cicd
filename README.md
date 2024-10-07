@@ -37,7 +37,6 @@ Simple Apigee proxy deployment using main pipeline solutions:
 <BR>
 
 ##  Apigee Complementary tools
- 
 
 |  Tool |  Link | Description | 
 |---|---|---|
