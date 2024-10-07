@@ -14,7 +14,6 @@ This wiki contains links to sample Apigee CI/CD implementations and tools, for [
 
 <BR>
 
-
 ##  Apigee 
 
 Simple Apigee proxy deployment using main pipeline solutions:
