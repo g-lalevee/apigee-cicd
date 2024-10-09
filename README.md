@@ -47,4 +47,3 @@ Simple Apigee proxy deployment using main pipeline solutions:
 
 
 
-
