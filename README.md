@@ -34,6 +34,7 @@ Simple Apigee proxy deployment using main pipeline solutions:
 (1) End to end deployment and testing of an [Apigee Connector](https://cloud.google.com/apigee/docs/api-platform/connectors/about-connectors) (Google BigQuery), an [Application Integration](https://cloud.google.com/apigee/docs/api-platform/integration/what-is-apigee-integration) workflow.
 
 (2) API SDLC ("design-first" approach) illustration relying on [Apigee API hub](https://cloud.google.com/apigee/docs/api-hub/what-is-api-hub) and Apigee X/hybrid 
+
 <BR>
 
 ##  Apigee Complementary tools
