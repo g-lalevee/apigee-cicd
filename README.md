@@ -6,8 +6,6 @@
 
 ***
 
-
-
 <BR>
 
 ## <img src="https://github.com/g-lalevee/apigee-cicd/blob/main/apigee-logo.jpg?raw=true" alt="logo" width="40"/> Welcome to the apigee-cicd wiki! 
